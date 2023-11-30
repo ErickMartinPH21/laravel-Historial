@@ -1,0 +1,11 @@
+<li class="nav-item">
+    <a class="nav-link " href="/reservarcitas/create">
+      <i class="ni ni-calendar-grid-58 text-text-primary"></i> Reservar Cita 
+    </a>
+  </li>
+
+  <li class="nav-item">
+    <a class="nav-link " href="/miscitas">
+      <i class="fas fa-clock text-info"></i> Mis Citas 
+    </a>
+  </li>
